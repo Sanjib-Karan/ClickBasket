@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Red T-Shirt",
+    "price": 15,
+    "description": "A comfortable red t-shirt.",
+    "image": "redtshirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blue Jeans",
+    "price": 40,
+    "description": "Stylish blue jeans for everyday wear.",
+    "image": "bluejeans.jpg"
+  },
+  {
+    "id": 3,
+    "name": "White Sneakers",
+    "price": 60,
+    "description": "Classic white sneakers.",
+    "image": "whiteseankers.jpg"
+  }
+]
